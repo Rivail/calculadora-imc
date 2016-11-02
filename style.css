@@ -1,0 +1,28 @@
+ 
+img, table {
+	width: 400px;
+
+
+}
+fieldset {
+	width: 200px;
+
+}
+label {
+	display: block;
+	float: left;
+	
+}
+label, input {
+	width: 68px;
+	height: 20px;
+
+	 
+
+}
+th, td {
+	border: 10px solid #ccc; 
+	font-size: 1em;
+	  
+}
+
